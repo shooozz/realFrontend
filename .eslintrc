@@ -31,9 +31,6 @@
     "max-len": ["error", { "code": 120 }],
     "comma-dangle": ["error", "only-multiline"],
     "semi": ["warn", "always"],
-    "globals": {
-      "myGlobalVariable": ["warn", true]
-    },
     "import/order": [
       "warn",
       {
