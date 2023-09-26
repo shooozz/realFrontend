@@ -32,7 +32,7 @@
     "comma-dangle": ["error", "only-multiline"],
     "semi": ["warn", "always"],
     "globals": {
-      "myGlobalVariable": true
+      "myGlobalVariable": ["warn", true]
     },
     "import/order": [
       "warn",
